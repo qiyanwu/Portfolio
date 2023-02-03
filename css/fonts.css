@@ -1,0 +1,12 @@
+@font-face {
+font-family:"nbintl";
+src:url("../fonts/NBInternationalPro.ttf") format("opentype");
+font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"nbintl-mono";
+src:url("../fonts/NBInternationalPro-Mono.ttf") format("opentype");
+font-style:normal;font-weight:400;
+}
+
