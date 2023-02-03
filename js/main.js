@@ -9301,7 +9301,7 @@
                     }), l.a.createElement("footer", null, l.a.createElement("div", null, l.a.createElement("p", {
                         className: "no-margins"
                     }, l.a.createElement("a", {
-                        href: "https://work.marrkwu.com",
+                        href: "https://work.ryo.lu",
                         target: "_blank"
                     }, l.a.createElement(f.a, p.viewportfolio), " "))), l.a.createElement("div", null, l.a.createElement(f.b, p.previouslyat), l.a.createElement("ul", {
                         className: "v-list"
@@ -14387,30 +14387,30 @@
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": "",
-        "app.footer.instagram": "",
-        "app.footer.lastSeenLoading": "Looking for Ryo...",
-        "app.footer.lastSeenPhrase": "University of Michigan",
+        "app.footer.email": " ",
+        "app.footer.instagram": " ",
+        "app.footer.lastSeenLoading": "",
+        "app.footer.lastSeenPhrase": "No.301,026 who reached the summit of Mt. Kilimanjaro",
         "app.footer.lastSeenSometime": "",
         "app.footer.lastSeenSomewhere": "",
-        "app.footer.lastSeenThisUniverse": "this universe",
+        "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
-        "app.footer.twitter": "",
-        "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Mark is making {link}."
+        "app.footer.twitter": " ",
+        "app.footer.viewportfolio": "More on portfolio",
+        "app.hero.makingnotion": "Hello, this is Mark Wu."
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": "\u30e1\u30fc\u30eb",
-        "app.footer.instagram": "\u30a4\u30f3\u30b9\u30bf",
-        "app.footer.lastSeenLoading": "\u8aad\u307f\u8fbc\u3093\u3067\u3044\u307e\u3059\u30fb\u30fb\u30fb",
-        "app.footer.lastSeenPhrase": "{time}\u306b{city}\u306e{name}\u3067\u898b\u305f\u3002",
-        "app.footer.lastSeenSometime": "\u6216\u308b\u65e5",
-        "app.footer.lastSeenSomewhere": "\u3069\u3053\u304b",
-        "app.footer.lastSeenThisUniverse": "\u3053\u306e\u5b87\u5b99",
+        "app.footer.email": " ",
+        "app.footer.instagram": " ",
+        "app.footer.lastSeenLoading": "",
+        "app.footer.lastSeenPhrase": "No.301,026 who reached the summit of Mt. Kilimanjaro",
+        "app.footer.lastSeenSometime": "",
+        "app.footer.lastSeenSomewhere": "",
+        "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
-        "app.footer.twitter": "\u30c4\u30a4\u30c3\u30bf\u30fc",
-        "app.footer.viewportfolio": "\u30dd\u30fc\u30c8\u30d5\u30a9\u30ea\u30aa\u3092\u898b\u308b",
-        "app.hero.makingnotion": "Mark\u306f{link}\u3092{lineBreak}\u4f5c\u3063\u3066\u3044\u308b\u3002"
+        "app.footer.twitter": " ",
+        "app.footer.viewportfolio": "More on portfolio",
+        "app.hero.makingnotion": "Hello, this is Mark Wu."
     }
 }]);
