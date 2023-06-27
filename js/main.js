@@ -14376,41 +14376,41 @@
         "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": "",
-        "app.footer.lastSeenPhrase": "No.301,026 who reached the summit of Mt. Kilimanjaro",
+        "app.footer.lastSeenPhrase": "",
         "app.footer.lastSeenSometime": "",
         "app.footer.lastSeenSomewhere": "",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "More on portfolio",
-        "app.hero.makingnotion": "Hello, this is Mark Wu."
+        "app.footer.viewportfolio": "next->",
+        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
     }
 }, function(e, t) {
     e.exports = {
         "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": "",
-        "app.footer.lastSeenPhrase": "No.301,026 who reached the summit of Mt. Kilimanjaro",
+        "app.footer.lastSeenPhrase": "",
         "app.footer.lastSeenSometime": "",
         "app.footer.lastSeenSomewhere": "",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "More on portfolio",
-        "app.hero.makingnotion": "Hello, this is Mark Wu."
+        "app.footer.viewportfolio": "next->",
+        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
     }
 }, function(e, t) {
     e.exports = {
         "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": "",
-        "app.footer.lastSeenPhrase": "No.301,026 who reached the summit of Mt. Kilimanjaro",
+        "app.footer.lastSeenPhrase": "",
         "app.footer.lastSeenSometime": "",
         "app.footer.lastSeenSomewhere": "",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "More on portfolio",
-        "app.hero.makingnotion": "Hello, this is Mark Wu."
+        "app.footer.viewportfolio": "next->",
+        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
     }
 }]);
