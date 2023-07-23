@@ -9301,7 +9301,7 @@
                     }), l.a.createElement("footer", null, l.a.createElement("div", null, l.a.createElement("p", {
                         className: "no-margins"
                     }, l.a.createElement("a", {
-                        href: "https://work.marrkwu.com",
+                        href: "https://work.marrkwu.com/ux",
                         target: "_blank"
                     }, l.a.createElement(f.a, p.viewportfolio), " "))), l.a.createElement("div", null, l.a.createElement(f.b, p.previouslyat), l.a.createElement("ul", {
                         className: "v-list"
