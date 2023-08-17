@@ -14373,44 +14373,44 @@
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": "email",
+        "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience @Mark Wu",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
+        "app.hero.makingnotion": "Where Computing Meets Design."
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": "email",
+        "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience @Mark Wu",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
+        "app.hero.makingnotion": "Where Computing Meets Design"
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": "email",
+        "app.footer.email": " ",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience @Mark Wu",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
+        "app.hero.makingnotion": "Where Computing Meets Design"
     }
 }]);
