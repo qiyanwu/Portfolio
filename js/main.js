@@ -14383,7 +14383,7 @@
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design."
+        "app.hero.makingnotion": "Where Design Meets Computing"
     }
 }, function(e, t) {
     e.exports = {
@@ -14397,7 +14397,7 @@
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design"
+        "app.hero.makingnotion": "Where Design Meets Computing"
     }
 }, function(e, t) {
     e.exports = {
@@ -14411,6 +14411,6 @@
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
         "app.footer.viewportfolio": "View portfolio",
-        "app.hero.makingnotion": "Where Computing Meets Design"
+        "app.hero.makingnotion": "Where Design Meets Computing"
     }
 }]);
