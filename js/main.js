@@ -9329,7 +9329,7 @@
                     }, l.a.createElement("span", {
                         className: "emoji"
                     }, " "), l.a.createElement(f.b, p.footerTwitter))), l.a.createElement("li", null, l.a.createElement("a", {
-                        href: "mailto:qiyan.wu@outlook.com"
+                        href: "mailto:mmark.wu@outlook.com"
                     }, l.a.createElement("span", {
                         className: "emoji"
                     }, ""), l.a.createElement(f.b, p.footerEmail))))), l.a.createElement("div", null, l.a.createElement("ul", {
@@ -14373,44 +14373,44 @@
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": " ",
+        "app.footer.email": "email",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "@Mark Wu",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "next->",
-        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
+        "app.footer.viewportfolio": "View portfolio",
+        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": " ",
+        "app.footer.email": "email",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "@Mark Wu",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "next->",
-        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
+        "app.footer.viewportfolio": "View portfolio",
+        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
     }
 }, function(e, t) {
     e.exports = {
-        "app.footer.email": " ",
+        "app.footer.email": "email",
         "app.footer.instagram": " ",
         "app.footer.lastSeenLoading": " ",
-        "app.footer.lastSeenPhrase": "@Mark Wu",
+        "app.footer.lastSeenPhrase": "Synergizing code and design, I shape unique user experience.",
         "app.footer.lastSeenSometime": " ",
         "app.footer.lastSeenSomewhere": " ",
         "app.footer.lastSeenThisUniverse": " ",
         "app.footer.previouslyat": "",
         "app.footer.twitter": " ",
-        "app.footer.viewportfolio": "next->",
-        "app.hero.makingnotion": "\"Innovation in Every Interaction\""
+        "app.footer.viewportfolio": "View portfolio",
+        "app.hero.makingnotion": "Where Computing Meets Design.\n @Mark Wu"
     }
 }]);
